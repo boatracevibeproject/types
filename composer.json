@@ -1,7 +1,7 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
     "name": "bvp/types",
-    "description": "Types for Boatrace Venture Project",
+    "description": "BVP Types：場・級別・天候・決まり手などの Enum と共通インターフェース | Shared enums and contracts for BVP",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -11,8 +11,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/shimomo/bvp-types/issues",
-        "source": "https://github.com/shimomo/bvp-types"
+        "issues": "https://github.com/boatracevibeproject/types/issues",
+        "source": "https://github.com/boatracevibeproject/types"
     },
     "require": {
         "php": "^8.3"
